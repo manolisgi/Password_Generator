@@ -21,8 +21,7 @@ The app is randomly generating passwords from 10 to 64 characters.
 This page wouldn't exist without the help of the TA's and the collaboration of the bootcamp students.
 
 ## Image
-
-N/A
+![Password_Generator](https://user-images.githubusercontent.com/114882721/211541551-82776501-5ab5-49b2-b16b-563a9c091467.jpg)
 
 ## Link
 
